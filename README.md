@@ -3,20 +3,29 @@ This Machine Learning the model has been developed to address the research probl
 
 Content 
 1.Importing Libraries
+
 2.Data Preparation
+
 3.Feature Engineering
+
 4.Hypothesis Testing
+
 - Numarical to Numarical: Coefficienct Corelation
 - Catergorical to Numarical Relationship - ANOVA Test
+
 5. Analysis (Discriptive)
-- HeatMap
+
 6.Feature Selection and Encoding
+
 - Handle Categorical Features Many Categories(One Hot Encoding)
 - Handle Categorical Features Many Categories(Count/Frequency Encoding)
+
 7.Solution Design
+
 8.Import Machine Learning Libraries
 - MAPE Def function
 - RMSE Def function
+
 9.Design 1.Model Design with Both Numerical and Categorical Features with Principal Component Analysis
 - Training and Testing Split
   Model Training
@@ -26,6 +35,7 @@ Content
   9.4 ADABOOST
   9.5 Gradiant BOOST
   9.6 Elasticnet
+
 10. Design 2.Model Design with Both Numerical and Categorical Features with Count Frequency Encording
 - Training and Testing Split
   Model Training
@@ -35,6 +45,7 @@ Content
   10.4 ADABOOST
   10.5 Gradient BOOST
   10.6 Elasticnet
+
 11. Desing 3.Model Design with only Numerical Features without Categorical Features.
 - Training and Testing Split
   Model Training
