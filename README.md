@@ -1,7 +1,8 @@
 # Turntime_Forecasting_MachineLearning_Model
 This Machine Learning the model has been developed to address the research problem in manufacturing base environment which is production turn time forecasting. Colab has been used to developed the model
 
-Content 
+Content
+
 1.Importing Libraries
 
 2.Data Preparation
@@ -25,7 +26,7 @@ Content
 8.Import Machine Learning Libraries
 
 9.Design 1.Model Design with Both Numerical and Categorical Features with Principal Component Analysis
-- Training and Testing Split | Model Training
+- Training and Testing | Model Training
   
   9.1.Decission Tree Regression
   
@@ -40,7 +41,7 @@ Content
   9.6 Elasticnet
 
 10.Design 2.Model Design with Both Numerical and Categorical Features with Count Frequency Encording
-- Training and Testing Split Model Training
+- Training and Testing | Model Training
   
   10.1.Decision Tree Regression
   
@@ -55,7 +56,7 @@ Content
   10.6 Elasticnet
 
 11. Desing 3.Model Design with only Numerical Features without Categorical Features.
-- Training and Testing Split | Model Training
+- Training and Testing | Model Training
   
   11.1.Decission Tree Regression
   
