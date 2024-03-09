@@ -23,37 +23,50 @@ Content
 7.Solution Design
 
 8.Import Machine Learning Libraries
-- MAPE Def function
-- RMSE Def function
 
 9.Design 1.Model Design with Both Numerical and Categorical Features with Principal Component Analysis
-- Training and Testing Split
-  Model Training
+- Training and Testing Split | Model Training
+  
   9.1.Decission Tree Regression
+  
   9.2.Random Forest Regression
+  
   9.3 XGBOOST
+  
   9.4 ADABOOST
+  
   9.5 Gradiant BOOST
+  
   9.6 Elasticnet
 
-10. Design 2.Model Design with Both Numerical and Categorical Features with Count Frequency Encording
-- Training and Testing Split
-  Model Training
+10.Design 2.Model Design with Both Numerical and Categorical Features with Count Frequency Encording
+- Training and Testing Split Model Training
+  
   10.1.Decision Tree Regression
+  
   10.2.Random Forest Regression
+  
   10.3 XGBOOST
+  
   10.4 ADABOOST
+  
   10.5 Gradient BOOST
+  
   10.6 Elasticnet
 
 11. Desing 3.Model Design with only Numerical Features without Categorical Features.
-- Training and Testing Split
-  Model Training
+- Training and Testing Split | Model Training
+  
   11.1.Decission Tree Regression
+  
   11.2.Random Forest Regression
+  
   11.3 XGBOOST
+  
   11.4 ADABOOST
+  
   11.5 Gradiant BOOST
+  
   11.6 Elasticnet
 
 
